@@ -43,5 +43,6 @@ def main():
 
     plot_data(x, y, y_predicted)
 
+
 if __name__ == '__main__':
     main()
